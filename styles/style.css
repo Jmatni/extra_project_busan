@@ -65,6 +65,7 @@ h1{
 .img-info{
   margin-top: 24px;
   display: flex;
+  text-align: center;
   align-items: center;  
 }
 
